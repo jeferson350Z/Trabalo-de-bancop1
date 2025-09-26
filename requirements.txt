@@ -4,6 +4,3 @@ pydantic==2.9.2
 motor>=3.5.0
 pymongo>=4.10.1
 python-dotenv>=1.0.1
-
-
-https://github.com/jeferson350Z/Trabalo-de-bancop1.git
